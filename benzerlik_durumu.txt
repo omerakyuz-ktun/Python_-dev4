@@ -1,0 +1,4 @@
+Metin 1 : test (0) 
+Metin 2 : test (0) 
+
+Benzerlik Katsayısı: 1.00
