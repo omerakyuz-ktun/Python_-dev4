@@ -1,0 +1,3 @@
+Ödevde kullandığım benzerlik metodu, iki metindeki ortak kelimeleri ilk metne göre numaralandırarak metinleri yeniden yazıyor. Bu sayede ortak kelimeler birbiriyle ilişkilendirilmiş oluyor.
+
+Benzerlik oranı için Jaccard benzerlik katsayısı kullanılmıştır.
